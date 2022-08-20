@@ -13,6 +13,7 @@ class RandomGen : JavaPlugin() {
     }
 
     private fun loadCommand() {
+        println("コマンドロード！！！")
         getCommand("random")!!.setExecutor(RandomCommand())
     }
 }

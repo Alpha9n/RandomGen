@@ -4,3 +4,6 @@ main: pro.freeserver.plugin.alphakun.randomgen.RandomGen
 api-version: 1.18
 authors: [ Alpha9n ]
 description: 数字をランダムに生成するpl
+commands:
+  random:
+    description: ランダムに生成するよ

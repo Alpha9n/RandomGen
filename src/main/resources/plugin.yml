@@ -1,0 +1,6 @@
+name: RandomGen
+version: '${project.version}'
+main: pro.freeserver.plugin.alphakun.randomgen.RandomGen
+api-version: 1.19
+authors: [ Alpha9n ]
+description: 数字をランダムに生成するpl
